@@ -2,15 +2,20 @@
 
 ## Introduction
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7c636c9b-d6fd-42bd-a249-8eca332d2c51" alt="Source Image"/>
+  <img src="https://github.com/user-attachments/assets/70e61c38-feab-49dc-b272-6baa4fa3af47" alt="Result Image" />
+</div>
+
 Vietnam Traffic Vehicle Segmentation (VTVS) is a research tool designed by Data4Life team to analyze traffic conditions using YOLO (You Only Look Once) for vehicle detection and segmentation. VTVS allows users to define a Region of Interest (ROI) and calculate congestion levels based on vehicle density within the specified area (using pre-defined ROI).
 
 ## Features
 
--   **Vehicle Detection**: Accurately detect vehicles using YOLO.
--   **ROI Customization**: Define custom Regions of Interest (ROI) for traffic analysis.
--   **Congestion Calculation**: Calculate congestion percentage based on vehicle density.
--   **Visualization**: Generate visual results with highlighted ROI and congestion levels.
--   **Docker Support**: Easy deployment using Docker and Docker Compose.
+- ✨ **Vehicle Segmentation**: Accurately segment vehicles using YOLO.
+- 🖼  **ROI Customization**: Define custom Regions of Interest (ROI) for traffic analysis.
+- 💫 **Congestion Calculation**: Calculate congestion percentage based on vehicle density.
+- ️🎨 **Visualization**: Generate visual results with highlighted ROI and congestion levels.
+- 🐳 **Docker Support**: Easy deployment using Docker and Docker Compose.
 
 ## Requirements
 
@@ -63,8 +68,12 @@ Vietnam Traffic Vehicle Segmentation (VTVS) is a research tool designed by Data4
     ```
 
     **Pro Tip**: Use the `tools/getcordinate.py` script to interactively select ROI coordinates with a GUI.
+    <div align="center">
+      <img src="https://github.com/user-attachments/assets/2deedc5a-b68d-4b59-8f73-8b76cf8b7b8e" alt="Chose 4 point" />
+      <img src="https://github.com/user-attachments/assets/e42bc5a2-0b9b-4ead-ba26-61ba78d43992" alt="Program's result" />
+    </div>
 
-3. **View Results**
+4. **View Results**
     - **Output Image**: The processed image with ROI and congestion analysis will be saved to `result/result.jpg`.
     - **Console Output**: The congestion percentage will be printed in the console.
 
