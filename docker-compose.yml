@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+    traffic_analyzer:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        volumes:
+            - ./:/app
+            - ./data:/app/data
+        environment:
+            - PYTHONUNBUFFERED=1

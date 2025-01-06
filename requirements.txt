@@ -1,0 +1,4 @@
+opencv-python
+torch>=1.7.0
+ultralytics
+numpy
