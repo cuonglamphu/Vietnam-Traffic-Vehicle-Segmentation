@@ -15,7 +15,7 @@ Vietnam Traffic Vehicle Segmentation (VTVS) is a research tool designed by Data4
 - 🖼  **ROI Customization**: Define custom Regions of Interest (ROI) for traffic analysis.
 - 💫 **Congestion Calculation**: Calculate congestion percentage based on vehicle density.
 - ️🎨 **Visualization**: Generate visual results with highlighted ROI and congestion levels.
-- 🐳 **Docker Support**: Easy deployment using Docker and Docker Compose.
+- 🐳 **Docker Support**
 
 ## Requirements
 
