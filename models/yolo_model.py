@@ -3,7 +3,7 @@ from typing import Optional
 
 class YOLOModel:
     _instance = None  # Singleton pattern
-    model_name = 'pretrained_models/best.pt'
+    model_name = 'pretrained_models/traffic_detect_model.pt'
     def __new__(cls):
         if cls._instance is None:
             cls._instance = super(YOLOModel, cls).__new__(cls)
