@@ -45,7 +45,7 @@ class CameraCache:
     def needs_update(self) -> bool:
         if self.last_update is None:
             return True
-        return (datetime.now() - self.last_update) > timedelta(seconds=30)
+        return (datetime.now() - self.last_update) > timedelta(seconds=5)
 
 camera_cache = CameraCache()
 
