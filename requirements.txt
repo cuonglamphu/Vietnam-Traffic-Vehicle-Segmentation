@@ -1,4 +1,6 @@
-opencv-python
-torch>=1.7.0
+numpy==1.23.5
+opencv-python==4.8.0.76
+requests==2.31.0
+fastapi==0.104.1
+uvicorn==0.24.0
 ultralytics
-numpy

@@ -1,0 +1,124 @@
+{
+    "camera_urls": {
+        "662b7ce71afb9c00172dc676": {
+            "url": "/temp_images/662b7ce71afb9c00172dc676_latest.jpg",
+            "location": "Cách Mạng Tháng Tám - Bùi Thị Xuân",
+            "latitude": 10.772404,
+            "longitude": 106.691603
+        },
+        "5a8241105058170011f6eaa6": {
+            "url": "/temp_images/5a8241105058170011f6eaa6_latest.jpg",
+            "location": "Đinh Tiên Hoàng - Võ Thị Sáu 2",
+            "latitude": 10.791967,
+            "longitude": 106.695808
+        },
+        "6623e2e16f998a001b252233": {
+            "url": "/temp_images/6623e2e16f998a001b252233_latest.jpg",
+            "location": "Hai Bà Trưng - Trần Quốc Toản",
+            "latitude": 10.790041,
+            "longitude": 106.689304
+        },
+        "662b83381afb9c00172dcf88": {
+            "url": "/temp_images/662b83381afb9c00172dcf88_latest.jpg",
+            "location": "Hai Bà Trưng - Nguyễn Đình Chiểu",
+            "latitude": 10.784684,
+            "longitude": 106.695903
+        },
+        "65e054fb6b18080018db6632": {
+            "url": "/temp_images/65e054fb6b18080018db6632_latest.jpg",
+            "location": "Lê Duẩn - Mạc Đĩnh Chi",
+            "latitude": 10.783235,
+            "longitude": 106.701142
+        },
+        "662b83ff1afb9c00172dcffb": {
+            "url": "/temp_images/662b83ff1afb9c00172dcffb_latest.jpg",
+            "location": "Lê Duẩn - Phạm Ngọc Thạch",
+            "latitude": 10.780545,
+            "longitude": 106.698043
+        },
+        "662b85bf1afb9c00172dd149": {
+            "url": "/temp_images/662b85bf1afb9c00172dd149_latest.jpg",
+            "location": "Nam Kỳ Khởi Nghĩa - Hàm Nghi",
+            "latitude": 10.771051,
+            "longitude": 106.701196
+        },
+        "662b7f251afb9c00172dc8bc": {
+            "url": "/temp_images/662b7f251afb9c00172dc8bc_latest.jpg",
+            "location": "Nam Kỳ Khởi Nghĩa - Nguyễn Du",
+            "latitude": 10.776806,
+            "longitude": 106.698009
+        },
+        "662b7f9f1afb9c00172dca50": {
+            "url": "/temp_images/662b7f9f1afb9c00172dca50_latest.jpg",
+            "location": "Nguyễn Bỉnh Khiêm - Nguyễn Đình Chiểu",
+            "latitude": 10.790527,
+            "longitude": 106.701537
+        },
+        "58af994abd82540010390c37": {
+            "url": "/temp_images/58af994abd82540010390c37_latest.jpg",
+            "location": "Nguyễn Hữu Cảnh - Tôn Đức Thắng",
+            "latitude": 10.782645,
+            "longitude": 106.706246
+        },
+        "65e0556b6b18080018db665e": {
+            "url": "/temp_images/65e0556b6b18080018db665e_latest.jpg",
+            "location": "Nguyễn Thái Học - Phạm Ngũ Lão",
+            "latitude": 10.768965,
+            "longitude": 106.694739
+        },
+        "5deb576d1dc17d7c5515ad19": {
+            "url": "/temp_images/5deb576d1dc17d7c5515ad19_latest.jpg",
+            "location": "Nguyễn Thị Minh Khai - Mạc Đĩnh Chi",
+            "latitude": 10.784521,
+            "longitude": 106.699627
+        },
+        "631828cac9eae60017a19f50": {
+            "url": "/temp_images/631828cac9eae60017a19f50_latest.jpg",
+            "location": "Nguyễn Thị Minh Khai - Nguyễn Bỉnh Khiêm 1",
+            "latitude": 10.788612,
+            "longitude": 106.703501
+        },
+        "662b81eb1afb9c00172dcc85": {
+            "url": "/temp_images/662b81eb1afb9c00172dcc85_latest.jpg",
+            "location": "Nguyễn Thị Minh Khai - Nguyễn Bỉnh Khiêm 2",
+            "latitude": 10.78819,
+            "longitude": 106.703988
+        },
+        "6623e43e6f998a001b2522cb": {
+            "url": "/temp_images/6623e43e6f998a001b2522cb_latest.jpg",
+            "location": "Nguyễn Thị Minh Khai - Bà Huyện Thanh Quan",
+            "latitude": 10.77469,
+            "longitude": 106.690423
+        },
+        "662b80051afb9c00172dcaf6": {
+            "url": "/temp_images/662b80051afb9c00172dcaf6_latest.jpg",
+            "location": "Nguyễn Trãi - Nguyễn Cư Trinh",
+            "latitude": 10.76223,
+            "longitude": 106.686465
+        },
+        "649da77ea6068200171a6dd4": {
+            "url": "/temp_images/649da77ea6068200171a6dd4_latest.jpg",
+            "location": "Tôn Đức Thắng - Công Trường Mê Linh",
+            "latitude": 10.775294,
+            "longitude": 106.706771
+        },
+        "649da72ca6068200171a6dbb": {
+            "url": "/temp_images/649da72ca6068200171a6dbb_latest.jpg",
+            "location": "Tôn Đức Thắng - Hàm Nghi",
+            "latitude": 10.771193,
+            "longitude": 106.706383
+        },
+        "5a823bd55058170011f6eaa0": {
+            "url": "/temp_images/5a823bd55058170011f6eaa0_latest.jpg",
+            "location": "Trần Hưng Đạo - Nguyễn Thái Học 2",
+            "latitude": 10.76767,
+            "longitude": 106.695731
+        },
+        "662b82a61afb9c00172dcdfd": {
+            "url": "/temp_images/662b82a61afb9c00172dcdfd_latest.jpg",
+            "location": "Trần Quang Khải - Trần Nhật Duật",
+            "latitude": 10.791601,
+            "longitude": 106.68943
+        }
+    }
+}
