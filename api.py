@@ -45,12 +45,12 @@ class CameraCache:
     def needs_update(self) -> bool:
         if self.last_update is None:
             return True
-        return (datetime.now() - self.last_update) > timedelta(seconds=5)
+        return (datetime.now() - self.last_update) > timedelta(seconds=15)
 
 camera_cache = CameraCache()
 
 async def update_cache():
-    """Background task to update cache every 30 seconds"""
+    """Background task to update cache every 15 seconds"""
     while True:
         try:
             if camera_cache.needs_update():
@@ -71,7 +71,7 @@ async def update_cache():
         except Exception as e:
             print(f"Error in update task: {str(e)}")
         
-        await asyncio.sleep(30)  # Wait for 30 seconds before next update
+        await asyncio.sleep(15)  # Wait for 15 seconds before next update
 
 @app.on_event("startup")
 async def startup_event():
@@ -101,7 +101,7 @@ async def get_status():
     return {
         "last_update": camera_cache.last_update.isoformat() if camera_cache.last_update else None,
         "cameras_cached": len(camera_cache.cache),
-        "next_update_in": 30 - ((datetime.now() - camera_cache.last_update).seconds if camera_cache.last_update else 30)
+        "next_update_in": 15 - ((datetime.now() - camera_cache.last_update).seconds if camera_cache.last_update else 15)
     }
 
 if __name__ == "__main__":
